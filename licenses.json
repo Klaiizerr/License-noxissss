@@ -1,0 +1,14 @@
+[
+  {
+    "Key": "NOXIS-UAVALO-QYR8C-QYR8-QYR8-1day",
+    "ExpiryDate": "2025-04-29T22:35:57.4755991+02:00",
+    "IsUsed": false,
+    "HWID": ""
+  },
+  {
+    "Key": "NOXIS-UAVALO-5NGPW-5NGP-5NGP-lifetime",
+    "ExpiryDate": "9999-12-31T23:59:59.9999999",
+    "IsUsed": false,
+    "HWID": ""
+  }
+]
